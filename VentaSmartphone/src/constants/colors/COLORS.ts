@@ -1,0 +1,16 @@
+const COLORS = {
+  DEEP_SEA: '#2D3E76',
+  BLUE_PASTEL: '#6B9AC4',
+  RED: '#FF597B',
+  GREEN: '#3ECF3B',
+  BLUE: '#4059AD',
+  BLUE_PASTEL_HOVER: '#337ccf',
+  YELLOW: '#EBE76C',
+  DARK_BLUE: '#3F3D56',
+  GRAY: '#61677a',
+  GRAY_DARK: '#4d5261',
+  GRAY_PASTEL: '#d8d9da',
+  BLUE_PASTEL_LOW: '#6790B5',
+  DARK_BLUE_PASTEL: '#19376D',
+};
+export default COLORS;
